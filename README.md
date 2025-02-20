@@ -1,2 +1,2 @@
-﻿# Phoenix Rising
+# Phoenix Rising
 Git repo for PR.
