@@ -1,2 +1,2 @@
 # Phoenix Rising
-Git repo for PR.
+Git repo for Phoenix Rising on Essentials 21.1
